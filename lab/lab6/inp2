@@ -1,0 +1,4 @@
+int a,b,c;
+float x,y,c;
+char ch1,ch2,ch3,d;
+int num,prime;
